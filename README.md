@@ -16,6 +16,12 @@ This tool can assist law firms, researchers, and legal analysts in **automatic t
   - `labels` → multi-hot encoded vector indicating the violated ECHR articles
 - **Task:** Multi-label classification (one case may correspond to multiple articles)
 
+ ##  Evaluation Results
+
+The table below shows the performance of different models on the ECtHR-B test set:
+
+![Model Comparison](eval.png)
+
 ---
 
 ## Approach
@@ -40,13 +46,7 @@ This tool can assist law firms, researchers, and legal analysts in **automatic t
 4. **Evaluation**
    - Predictions compared against ground truth using multi-label metrics and increased accuracy
 
----
 
-##  Evaluation Results
-
-The table below shows the performance of different models on the ECtHR-B test set:
-
-![Model Comparison](eval.png)
 
 ---
 
