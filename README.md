@@ -64,12 +64,4 @@ LexLabeler proves that **fine-tuning a domain-specific language model on legal t
 
 ---
 
-## Installation
-```bash
-# Clone repository
-git clone <your-repo-url>
-cd <your-repo-name>
-
-# Install required packages
-pip install -r requirements.txt
 
