@@ -47,7 +47,7 @@ This tool can assist law firms, researchers, and legal analysts in **automatic t
 
 The table below shows the performance of different models on the ECtHR-B test set:
 
-![Model Comparison](results/eval.png)
+![Model Comparison](eval.png)
 
 ---
 
