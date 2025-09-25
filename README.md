@@ -32,7 +32,6 @@ This tool can assist law firms, researchers, and legal analysts in **automatic t
    - Loss function: **BCEWithLogitsLoss**
 
 3. **Training**
-   - Optimizer: AdamW
    - Learning rate: 2e-5
    - Batch size: 8–16
    - Epochs: 3–5
